@@ -2,7 +2,6 @@
 ## PATH & ENV Var
 ##
 ## Starting Message
-pokemon-colorscripts -r --no-title
 
 export "MICRO_TRUECOLOR=1"
 
